@@ -1,0 +1,15 @@
+/* cdiqnbaad3i9g9pvvrj0cdiqnbaad3i9g9pvvrjg */
+
+ul li {
+  border-bottom: 1px solid rgb(233, 228, 228);
+}
+
+.delete-button {
+    visibility: hidden;
+    display: inline-block;
+}
+
+.table-row:hover .delete-button
+{
+    visibility: visible;
+} 
